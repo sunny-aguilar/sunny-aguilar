@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## I'm a CS student in my third year at OSU and I love to code!
-- Python is great 
+- Python is great
+
 [![Build Status][build-button]][build]
 
 
