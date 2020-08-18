@@ -1,4 +1,8 @@
 ### Hi there 👋
+## I'm a CS student in my third year at OSU and I love to code!
+- Python is great 
+[![Build Status][build-button]][build]
+
 
 <!--
 **sunny-aguilar/sunny-aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
