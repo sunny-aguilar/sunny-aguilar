@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-3fedff" />
   <img src="https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-critical" />
   <img src="https://img.shields.io/badge/BootStrap5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9b5ee4" />
-  
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 </p>
 
 
