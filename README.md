@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm a CS student in my fourth year at OSU!
+## I'm a CS grad from OSU!
 [//]: #(https://github.com/Ileriayo/markdown-badges)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
